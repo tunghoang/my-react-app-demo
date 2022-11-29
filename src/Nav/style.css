@@ -1,0 +1,8 @@
+.Nav a.active {
+  color: white;
+  background-color: red;
+}
+.Nav a {
+  margin: 10px;
+  padding: 0 10px;
+}
